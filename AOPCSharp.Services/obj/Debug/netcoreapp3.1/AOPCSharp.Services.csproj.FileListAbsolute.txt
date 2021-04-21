@@ -1,0 +1,9 @@
+C:\Users\bruno.monteiro\source\repos\AOPCSharp\AOPCSharp.Services\bin\Debug\netcoreapp3.1\AOPCSharp.Services.deps.json
+C:\Users\bruno.monteiro\source\repos\AOPCSharp\AOPCSharp.Services\bin\Debug\netcoreapp3.1\AOPCSharp.Services.dll
+C:\Users\bruno.monteiro\source\repos\AOPCSharp\AOPCSharp.Services\bin\Debug\netcoreapp3.1\AOPCSharp.Services.pdb
+C:\Users\bruno.monteiro\source\repos\AOPCSharp\AOPCSharp.Services\obj\Debug\netcoreapp3.1\AOPCSharp.Services.csprojAssemblyReference.cache
+C:\Users\bruno.monteiro\source\repos\AOPCSharp\AOPCSharp.Services\obj\Debug\netcoreapp3.1\AOPCSharp.Services.AssemblyInfoInputs.cache
+C:\Users\bruno.monteiro\source\repos\AOPCSharp\AOPCSharp.Services\obj\Debug\netcoreapp3.1\AOPCSharp.Services.AssemblyInfo.cs
+C:\Users\bruno.monteiro\source\repos\AOPCSharp\AOPCSharp.Services\obj\Debug\netcoreapp3.1\AOPCSharp.Services.csproj.CoreCompileInputs.cache
+C:\Users\bruno.monteiro\source\repos\AOPCSharp\AOPCSharp.Services\obj\Debug\netcoreapp3.1\AOPCSharp.Services.dll
+C:\Users\bruno.monteiro\source\repos\AOPCSharp\AOPCSharp.Services\obj\Debug\netcoreapp3.1\AOPCSharp.Services.pdb
